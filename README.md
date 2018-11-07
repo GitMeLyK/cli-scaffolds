@@ -13,7 +13,8 @@ C) [Gulp Starter Kit](http://devtipsstarterkit.com) da [@DevTipsShow](https://tw
 ## C) Sono una serie di file di base HTML e css per iniziare un nuovo sito da 0 con dentro il task manager gulp e il suo precompilatre gulp-sass 
 
 ## Install
-To install the Devtips CLI you need to download the one that fits your Operating System from the folder above. After you have the file on your system, follow the instructions for your OS.
+Per installare questa versione di Scadffold CLI devi scaricarla per la versione del tuo sistema operativo.
+Segui poi le istruzioni sotto in base alla versione del Sistema Operativo.
 
 #### ** Per Mac e Linux
 Eseguire questi comandi su una finestra di terminale 
